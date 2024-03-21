@@ -12,7 +12,7 @@
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/akanksha-w-4409ba194/)
+- [LinkedIn](https://www.linkedin.com/in/akanksha-w-4409ba194//)
 - [GitHub](https://github.com/akankshawagh15)
 
 ## Contact Information
