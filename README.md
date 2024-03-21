@@ -2,13 +2,8 @@
 
 ## Table of Contents
 
-- [About](#about)
 - [Links](#links)
 - [Contact Information](#contact-information)
-
-## About
-
-[Provide a brief description of your project here.]
 
 ## Links
 
